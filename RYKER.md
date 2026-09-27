@@ -1,32 +1,19 @@
 # RYKER.md
 
-> Repository knowledge generated from `419f6c4854fb1042189c6f0a162be7d4b2f97fd5`. Facts below come from the linked files. Commands are detected, not executed, unless a later note says otherwise.
+Written by Ryker from `419f6c4` on 2026-09-27.
 
 ## Purpose
 
-The README did not contain a short prose purpose statement.
+The repository contains only a README titled “test”. Its purpose and intended users are not documented.
 
-## Repository map
+## Components
 
-No top-level source directories were found.
+- [README.md](README.md) — Contains only the repository title, “test”.
 
-## Languages and dependencies
+## Where to look
 
-No recognized source-language files were found.
+- Find the repository title: [README.md](README.md)
 
-## Setup, build and test
+## Open questions
 
-No standard setup or test command was identified. Confirm the expected workflow with the maintainers.
-
-## CI and release
-
-No GitHub Actions workflow was present at the scanned revision. Confirm CI and release ownership elsewhere.
-
-## Conventions and operational notes
-
-No AGENTS.md or CONTRIBUTING.md was found. Follow the existing code and ask before inventing repository-wide conventions.
-
-## Unresolved questions
-
-- Confirm production deployment ownership and verification steps if they are not documented in the linked sources.
-- Confirm any required secrets, external services, or generated files before running the detected commands.
+- What is this repository intended to contain, and who will use it?
