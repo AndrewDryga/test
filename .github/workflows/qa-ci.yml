@@ -1,0 +1,11 @@
+name: QA CI controls
+on: pull_request
+jobs:
+  fails:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "fails on purpose for a Ryker QA test"; exit 1
+  slow:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 900
